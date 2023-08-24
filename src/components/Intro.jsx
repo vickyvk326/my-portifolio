@@ -6,7 +6,7 @@ export default class Intro extends Component {
       <div className="sm:h-[90vh] pb-[4rem] flex flex-col items-center justify-center gap-[1rem] sm:flex-row-reverse sm:gap-[1rem] sm:pt-[8rem] sm:pb-[4.4rem]">
         <div className="overflow-hidden  flex items justify-center w-[10.67869rem] h-[10.67869rem] sm:justify-start sm:w-[15.1875rem] sm:h-[15.1875rem] p-[.5rem] bg-[#FF6464] rounded-[50%] sm:p-[.65rem]">
           <img
-            src="src\assets\profile-pic.jpeg"
+            src="https://vickyvk326.github.io/my-portifolio\profile-pic.jpeg"
             alt=""
             className="overflow-hidden  rounded-[50%] scale-105 z-0  "
           />
